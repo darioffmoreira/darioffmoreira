@@ -1,6 +1,4 @@
-### Hello👋
+### Hi there 👋
 
-<!--- 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
-<!--- - 📫 How to reach me: @darioffmoreira-->
-
+- 🔭 I’m Dário Moreira
+- 📫 How to reach me: https://darioffmoreira.github.io/Portfolio/
