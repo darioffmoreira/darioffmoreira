@@ -13,13 +13,13 @@
   <img src="https://img.shields.io/badge/GIT-orange" />  
 </div> -->
 
-<div style:"display: flex; flex-direction: row">
+<div style:"display:flex;flex-direction:row">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=darioffmoreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darioffmoreira&layout=compact&langs_count=16&theme=dracula&count_private=true"/>
 </div
-
-### Technologies:
-<div style="padding-top:1rem;display: inline_block">
+<br><br>
+### Technologies:<br>
+<div style="display: inline_block">
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS"></code>
