@@ -18,8 +18,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darioffmoreira&layout=compact&langs_count=16&theme=dracula&count_private=true"/>
 </div
 <br><br>
-### Technologies:<br>
-<div style="display: inline_block">
+### Technologies:
+<div style="display: inline_block"><br>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS"></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS"></code>
