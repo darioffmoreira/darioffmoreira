@@ -5,3 +5,10 @@
 
 - 🔭 I’m Dário Moreira
 - 📫 How to reach me: https://darioffmoreira.github.io/Portfolio/
+
+<div style:"display: flex; flex-direction: row">
+  <img src="https://img.shields.io/badge/HTML-lightgrey" />  
+  <img src="https://img.shields.io/badge/CSS-blue" />  
+  <img src="https://img.shields.io/badge/JS-brighteen" />  
+  <img src="https://img.shields.io/badge/GIT-green" />  
+</div>
