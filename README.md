@@ -1,3 +1,5 @@
+##
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=darioffmoreira.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/darioffmoreira?style=social)
 
@@ -12,6 +14,8 @@
   <img src="https://img.shields.io/badge/JS-yellow" />
   <img src="https://img.shields.io/badge/GIT-orange" />  
 </div> -->
+
+##
 
 <div style:"display:flex;flex-direction:row">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=darioffmoreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
