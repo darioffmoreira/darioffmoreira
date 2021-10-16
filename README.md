@@ -5,8 +5,10 @@
 
 ## Hi there 👋
 
-- 🔭 I’m Dário Moreira
-- 📫 How to reach me: https://darioffmoreira.github.io/Portfolio/
+<div align='center' style:"display:flex;flex-direction:row">
+  - 🔭 I’m Dário Moreira
+  - 📫 How to reach me: https://darioffmoreira.github.io/Portfolio/
+</div
 
 <!-- <div style:"display: flex; flex-direction: row">
   <img src="https://img.shields.io/badge/HTML-red" />  
@@ -17,7 +19,7 @@
 
 ##
 
-<div style:"display:flex;flex-direction:row">
+<div align='center' style:"display:flex;flex-direction:row">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=darioffmoreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darioffmoreira&layout=compact&langs_count=16&theme=dracula&count_private=true"/>
 </div
