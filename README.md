@@ -1,11 +1,3 @@
-##
-
-<div align='center' style:"display:flex;flex-direction:row">
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=darioffmoreira.visitor-badge)
-  ![GitHub followers](https://img.shields.io/github/followers/darioffmoreira?style=social)
-</div
-
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=darioffmoreira.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/darioffmoreira?style=social)
 
