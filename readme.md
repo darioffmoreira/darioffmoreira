@@ -1,7 +1,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=darioffmoreira.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/darioffmoreira?style=social)
 
-<img src="pc.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+<img src="https://indylogix.com/wp-content/uploads/2020/10/why-choose-front-end-developer-indylogix-solutions.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left"> 
   🌎 Hello, my name is Dário Moreira. I'm a front-end developer.
