@@ -19,9 +19,7 @@
   💌 If you want to chat with me, don't hesitate to send me a message.
 </p>
 
-<p align="left" style="display: flex;
-  align-items: center;
-  justify-content: center;flex-flow: column wrap;">
+<p align="left">
   <a href = "mailto:darioffmoreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/darioffmoreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
@@ -40,7 +38,7 @@
   - 🌱 I’m currently learning Javascript
 -->
 
-<div align='center' style:"display:flex;flex-direction:row">
+<div align='center' style="display:flex;align-items:center;justify-content:center;flex-flow:column wrap;">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=darioffmoreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darioffmoreira&layout=compact&langs_count=16&theme=dracula&count_private=true"/>
 </div
