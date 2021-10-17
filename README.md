@@ -4,14 +4,7 @@
 ## Hi there 👋
 
   - 🔭 I’m Dário Moreira
-##
-<!-- <div style:"display: flex; flex-direction: row">
-  <img src="https://img.shields.io/badge/HTML-red" />  
-  <img src="https://img.shields.io/badge/CSS-blue" />  
-  <img src="https://img.shields.io/badge/JS-yellow" />
-  <img src="https://img.shields.io/badge/GIT-orange" />  
-</div> -->
-
+  
 ##
 
 <div align='center' style:"display:flex;flex-direction:row">
