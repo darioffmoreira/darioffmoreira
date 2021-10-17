@@ -4,6 +4,8 @@
 ## Hi there 👋
 
   - 🔭 I’m Dário Moreira
+  - 👀 I’m interested in Web Development
+  - 🌱 I’m currently learning Javascript
   
 ##
 
