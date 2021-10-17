@@ -5,6 +5,11 @@
   🌎 Hello, my name is Dário Moreira. I'm a front-end developer.
 </p>
 
+<p align="left">
+  🦄 Skills: <strong> HTML, CSS, JavaScript</strong>
+</p>
+
+<!--
 <div style="display: inline_block" align='center'>
   <h3>Technologies</h3>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -12,6 +17,7 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
+-->
 
   - 🔭 I’m Dário Moreira
   - 👀 I’m interested in Web Development
