@@ -4,7 +4,8 @@
 ## Hi there 👋
 
   - 🔭 I’m Dário Moreira
-  - 📫 How to reach me: https://darioffmoreira.github.io/Portfolio/
+  
+##
 
 <!-- <div style:"display: flex; flex-direction: row">
   <img src="https://img.shields.io/badge/HTML-red" />  
