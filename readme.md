@@ -7,19 +7,13 @@
   🌎 Hello, my name is Dário Moreira. I'm a front-end developer.
 </p>
 
-##
-
 <p align="left">
   🔧 Skills: <strong> HTML, CSS, JavaScript</strong>
 </p>
 
-##
-
 <p align="left">
   💼 Tools: <strong>VSCode, Figma, Git and GitHub.</strong>
 </p>
-
-##
 
 <p align="left">
   💌 If you want to chat with me, don't hesitate to send me a message.
