@@ -1,7 +1,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=darioffmoreira.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/darioffmoreira?style=social)
 
-##
+<br><br>
 
 <img src="https://indylogix.com/wp-content/uploads/2020/10/why-choose-front-end-developer-indylogix-solutions.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
@@ -39,11 +39,11 @@
   - 🌱 I’m currently learning Javascript
 -->
 
-##
+<br><br>
 
-##
+<br><br>
 
-##
+<br><br>
 
 <div align='center' style="display: flex;flex-flow: column wrap;">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=darioffmoreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
