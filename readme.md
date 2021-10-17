@@ -7,18 +7,23 @@
   🌎 Hello, my name is Dário Moreira. I'm a front-end developer.
 </p>
 
+##
+
 <p align="left">
   🔧 Skills: <strong> HTML, CSS, JavaScript</strong>
 </p>
+
+##
 
 <p align="left">
   💼 Tools: <strong>VSCode, Figma, Git and GitHub.</strong>
 </p>
 
+##
+
 <p align="left">
   💌 If you want to chat with me, don't hesitate to send me a message.
 </p>
-
 <p align="left">
   <a href = "mailto:darioffmoreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/darioffmoreira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -37,8 +42,6 @@
   - 👀 I’m interested in Web Development
   - 🌱 I’m currently learning Javascript
 -->
-
-##
 
 ##
 
