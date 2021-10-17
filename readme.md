@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  🦄 Skills: <strong> HTML, CSS, JavaScript</strong>
+  🔧 Skills: <strong> HTML, CSS, JavaScript</strong>
 </p>
 
 <p align="left">
