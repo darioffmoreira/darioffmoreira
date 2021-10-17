@@ -1,5 +1,3 @@
-
-
 <img src="https://indylogix.com/wp-content/uploads/2020/10/why-choose-front-end-developer-indylogix-solutions.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left"> 
@@ -49,7 +47,5 @@
 
 ##
  
-<div align='center' style="display: flex;flex-flow: column wrap;">
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=darioffmoreira.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=darioffmoreira.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/darioffmoreira?style=social)
-</div
