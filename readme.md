@@ -3,7 +3,7 @@
 
 <br>
 
-<img src="https://indylogix.com/wp-content/uploads/2020/10/why-choose-front-end-developer-indylogix-solutions.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+<img src="https://techarge.in/wp-content/uploads/2020/11/Programming-rafiki-1-1024x1024.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left"> 
   🌎 Hello, my name is Dário Moreira. I'm a front-end developer.
