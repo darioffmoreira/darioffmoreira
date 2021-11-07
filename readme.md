@@ -3,7 +3,7 @@
 
 <br>
 
-<img src="https://techarge.in/wp-content/uploads/2020/11/Programming-rafiki-1-1024x1024.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+<img src="https://www.techinsurance.com/-/jssmedia/industry-and-professions/imagery/software-development/illustration_software-developers-new.png?h=575&iar=0&w=763&rev=2e4f7ce75e784fdfae5e9de9ee81ccbc" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left"> 
   🌎 Hello, my name is Dário Moreira. I'm a front-end developer.
