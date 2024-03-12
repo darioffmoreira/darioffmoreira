@@ -5,29 +5,20 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Dário Moreira</h1>
 
- <img src="https://www.techinsurance.com/-/jssmedia/industry-and-professions/imagery/software-development/illustration_software-developers-new.png?h=575&iar=0&w=763&rev=2e4f7ce75e784fdfae5e9de9ee81ccbc" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+<img src="https://www.techinsurance.com/-/jssmedia/industry-and-professions/imagery/software-development/illustration_software-developers-new.png?h=575&iar=0&w=763&rev=2e4f7ce75e784fdfae5e9de9ee81ccbc" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+  
   <br><br><br>
+  
   <p align="left"> 
-    # 🔥 Web Developer
-    
-    Hello there! I'm a seasoned Web Developer with a passion for crafting engaging and dynamic web experiences.
+    🔥 Web Developer
   </p>
-  
-  <p align="left">
-    ## 🔧 Skills
-    - **HTML**
-    - **CSS**
-    - **JavaScript**
 
-    I specialize in creating responsive and visually appealing websites that captivate users.
-  </p>
-  
   <p align="left">
-    ## 💼 Tools
-   
-    - **VSCode**: For efficient coding.
-    - **Figma**: For seamless design collaboration.
-    - **Git/GitHub**: For version control and teamwork.
+    🔧 Skills: <strong> HTML, CSS, JavaScript</strong>
+  </p>
+
+  <p align="left">
+    💼 Tools: <strong>VSCode, Figma, Git and GitHub</strong>
   </p>
 
 <!--
