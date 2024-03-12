@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=darioffmoreira.visitor-badge)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=darioffmoreira&left_color=green&right_color=red)
 ![GitHub followers](https://img.shields.io/github/followers/darioffmoreira?style=social)
 
 <br>
