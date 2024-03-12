@@ -1,4 +1,4 @@
-![visitors](https://komarev.com/ghpvc/?username=darioffmoreira&color=yellow)
+![visitors](https://komarev.com/ghpvc/?username=darioffmoreira&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/darioffmoreira?style=social)
 
 <br>
