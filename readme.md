@@ -10,7 +10,7 @@
   <br><br>
   
   <p align="left"> 
-    🔥 Web Developer
+    🔥 Front-end Developer
   </p>
 
   <p align="left">
