@@ -7,7 +7,7 @@
 
 <img src="https://www.techinsurance.com/-/jssmedia/industry-and-professions/imagery/software-development/illustration_software-developers-new.png?h=575&iar=0&w=763&rev=2e4f7ce75e784fdfae5e9de9ee81ccbc" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
   
-  <br><br><br>
+  <br><br>
   
   <p align="left"> 
     🔥 Web Developer
