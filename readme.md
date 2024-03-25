@@ -1,5 +1,6 @@
 ![visitors](https://komarev.com/ghpvc/?username=darioffmoreira&color=blue)
 ![GitHub followers](https://img.shields.io/github/followers/darioffmoreira?style=social)
+[![Codewars Badge](https://www.codewars.com/users/darioffmoreira/badges/micro)](https://www.codewars.com/users/darioffmoreira/badges/micro)
 
 <br>
 
