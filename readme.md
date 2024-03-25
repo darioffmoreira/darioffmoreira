@@ -1,7 +1,7 @@
 ![visitors](https://komarev.com/ghpvc/?username=darioffmoreira&color=blue)
-<!--![GitHub followers](https://img.shields.io/github/followers/darioffmoreira?style=social)-->
 [![Codewars Badge](https://www.codewars.com/users/darioffmoreira/badges/micro)](https://www.codewars.com/users/darioffmoreira/badges/micro)
 
+<!--![GitHub followers](https://img.shields.io/github/followers/darioffmoreira?style=social)-->
 <br>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Dário Moreira</h1>
