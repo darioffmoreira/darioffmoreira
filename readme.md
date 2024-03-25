@@ -39,7 +39,7 @@
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phalcon/phalcon-original.svg"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phalcon/phalcon-original.svg"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
