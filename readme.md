@@ -1,6 +1,8 @@
 ![visitors](https://komarev.com/ghpvc/?username=darioffmoreira&color=blue)
 [![Codewars Badge](https://www.codewars.com/users/darioffmoreira/badges/micro)](https://www.codewars.com/users/darioffmoreira/badges/micro)
 
+<br><br>
+
 <div align='center' style="display: flex;flex-flow: column wrap;">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=darioffmoreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darioffmoreira&layout=compact&langs_count=16&theme=dracula&count_private=true"/>
