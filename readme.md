@@ -1,30 +1,6 @@
 ![visitors](https://komarev.com/ghpvc/?username=darioffmoreira&color=blue)
 [![Codewars Badge](https://www.codewars.com/users/darioffmoreira/badges/micro)](https://www.codewars.com/users/darioffmoreira/badges/micro)
 
-<br>
-
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Dário Moreira</h1>
-
-<img src="https://blog.planview.com/wp-content/uploads/2020/01/Top-6-Software-Development-Methodologies.jpg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
-  
-<br><br>
-  
-  <p align="left"> 
-    🔥 Software Developer
-  </p>
-
-<!--
-  <p align="left">
-    🔧 Skills: <strong> HTML, CSS, JavaScript</strong>
-  </p>
-
-  <p align="left">
-    💼 Tools: <strong>VSCode, Figma, Git and GitHub</strong>
-  </p>
--->
-
-<br><br><br><br>
-
 <div align='center' style="display: flex;flex-flow: column wrap;">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=darioffmoreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darioffmoreira&layout=compact&langs_count=16&theme=dracula&count_private=true"/>
