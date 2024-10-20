@@ -5,14 +5,15 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Dário Moreira</h1>
 
-<img src="https://www.techinsurance.com/-/jssmedia/industry-and-professions/imagery/software-development/illustration_software-developers-new.png?h=575&iar=0&w=763&rev=2e4f7ce75e784fdfae5e9de9ee81ccbc" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+<img src="https://blog.planview.com/wp-content/uploads/2020/01/Top-6-Software-Development-Methodologies.jpg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
   
 <br><br>
   
   <p align="left"> 
-    🔥 Front-end Developer
+    🔥 Software Developer
   </p>
 
+<!--
   <p align="left">
     🔧 Skills: <strong> HTML, CSS, JavaScript</strong>
   </p>
@@ -20,6 +21,7 @@
   <p align="left">
     💼 Tools: <strong>VSCode, Figma, Git and GitHub</strong>
   </p>
+-->
 
 <br><br><br><br>
 
